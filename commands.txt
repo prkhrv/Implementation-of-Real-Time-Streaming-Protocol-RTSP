@@ -1,0 +1,2 @@
+py Server.py 2000
+python ClientLauncher.py 192.168.0.102 2000 100 movie.Mjpeg
